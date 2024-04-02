@@ -1,2 +1,2 @@
-code --enable-features=WaylandWindowDecorations --ozone-platform-hint=auto
+code --enable-features=WaylandWindowDecorations --ozone-platform-hint=auto &
 
